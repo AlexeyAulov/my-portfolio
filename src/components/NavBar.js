@@ -12,13 +12,13 @@ return (
 
 <NavLink to="/"exact 
 activeClassName="text-yellow-200 "
-className="inflex-flex items-center py-8 px-3 mr-4 text-black-300 hover:text-yellow-200 text-3xl " >
+className="inflex-flex items-center py-8 px-3 mr-4 text-black-300 hover:text-yellow-200 text-5xl " >
 Home
 </NavLink>
 
 <NavLink to="/project" 
 activeClassName="text-yellow-200"
-className="inline-flex items-center py-3 px-3 my-6 rounded text-black hover:text-yellow-200">
+className="inline-flex items-center py-3 px-3 my-6 text-4xl rounded text-black hover:text-yellow-200">
 Projects
 </NavLink>
 

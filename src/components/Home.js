@@ -1,5 +1,5 @@
 import React from "react";
-import image from "../PortfolioPic/screen.jpg";
+import image from "../PortfolioPic/NewProfilePic.jpg";
 import {SiCplusplus } from "react-icons/si";
 import {SiTailwindcss } from "react-icons/si";
 import {DiPhp} from "react-icons/di";
