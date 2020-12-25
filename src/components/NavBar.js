@@ -30,7 +30,7 @@ Projects
   
 <SocialIcon url="https://github.com/AlexeyAulov" ClassName="mr-4" target="_blank" fgColor="#fff" style ={{height:35,width:35}}/>
 
-<a  href="https://github.com/AlexeyAulov/Resume/blob/main/Alexey%20Aulov.pdf" target="_blank"><GoFile ClassName="mr-4"  fgColor="#fff" style ={{height:35,width:35}}/></a>
+<a  href="https://github.com/AlexeyAulov/Resume/blob/main/Alexey%20Aulov.pdf" target="_blank" rel="noreferrer"><GoFile ClassName="mr-4"  fgColor="#fff" style ={{height:35,width:35}}/></a>
 
 </div>
 </div>   
