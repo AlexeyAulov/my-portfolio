@@ -15,9 +15,9 @@ export default function Project()
     
 return(
         <main className="bg-yellow-200 min-h-screen p-12">
-                <section className="container mx-auto">
+                <section className="container  mx-auto">
                     <h1 className="text-5xl flex justify-center pb-4">My Projects</h1>
-                    <section className="grid grid-cols-2 gap-8">    
+                    <section className="grid lg:grid-cols-2 md:grid-cols-2 md:grid-cols-1 gap-8">    
                         {projectData && projectData.map((project,index)=>(
                             <article className="relative rounded-lg shadow-xl bg-white p-16">
                                 <h3 className="text-gray-800 text-3xl font-bold mb-2 hover:text:yellow-700">
