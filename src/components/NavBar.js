@@ -25,7 +25,7 @@ Projects
 
 
 </nav>
-<div className="flex sm:inline-flex md:flex lg:flex xl:flex  py-3 px-3 my-6 gap-2">
+<div className="flex sm:inline-flex md:flex lg:flex xl:flex ... py-3 px-3 my-6 gap-2">
 <SocialIcon url="https://www.linkedin.com/in/alexey-aulov/" ClassName="mr-4" target="_blank" fgColor="#fff" style ={{height:55,width:55}}/>
   
 <SocialIcon url="https://github.com/AlexeyAulov" ClassName="mr-4" target="_blank" fgColor="#fff" style ={{height:55,width:55}}/>

@@ -29,7 +29,7 @@ export default function Home() {
           </div>
           <div class="p-4">
             <p class="mt-2 md:w-80 text-lg text-gray-500">Hi my name is Alexey, I am inspiring to be an software engineer.
-            I am currently a full time Information Systems and Technology student at College of Staten Island.
+            I am currently a full time Information Systems and Informatics student at College of Staten Island.
             I am passionate about creating applications and learning how they work.
             I look up to new challanges, and always work towards exceeding expectations in a collaborative and efficient way.</p>
           </div>
