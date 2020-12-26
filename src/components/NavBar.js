@@ -18,19 +18,19 @@ Home
 
 <NavLink to="/project" 
 activeClassName="text-yellow-200"
-className="inline-flex items-center py-3 px-3 my-6 text-4xl rounded text-black hover:text-yellow-200">
+className="inline-flex items-center py-3 px-3  text-4xl rounded text-black hover:text-yellow-200">
 Projects
 </NavLink>
 
 
 
 </nav>
-<div className="inline-flex py-3 px-3 my-6 gap-2">
-<SocialIcon url="https://www.linkedin.com/in/alexey-aulov/" ClassName="mr-4" target="_blank" fgColor="#fff" style ={{height:35,width:35}}/>
+<div className="flex sm:inline-flex md:block lg:hidden xl:flex ... py-3 px-3 my-6 gap-2">
+<SocialIcon url="https://www.linkedin.com/in/alexey-aulov/" ClassName="mr-4" target="_blank" fgColor="#fff" style ={{height:55,width:55}}/>
   
-<SocialIcon url="https://github.com/AlexeyAulov" ClassName="mr-4" target="_blank" fgColor="#fff" style ={{height:35,width:35}}/>
+<SocialIcon url="https://github.com/AlexeyAulov" ClassName="mr-4" target="_blank" fgColor="#fff" style ={{height:55,width:55}}/>
 
-<a  href="https://github.com/AlexeyAulov/Resume/blob/main/Alexey%20Aulov.pdf" target="_blank" rel="noreferrer"><GoFile ClassName="mr-4"  fgColor="#fff" style ={{height:35,width:35}}/></a>
+<a  href="https://github.com/AlexeyAulov/Resume/blob/main/Alexey%20Aulov.pdf" target="_blank" rel="noreferrer"><GoFile ClassName="mr-4"  fgColor="#fff" style ={{height:55,width:55}}/></a>
 
 </div>
 </div>   
