@@ -30,7 +30,7 @@ return (
   
 <SocialIcon url="https://github.com/AlexeyAulov" ClassName="mr-4" target="_blank" fgColor="#fff" style ={{height:45,width:45}}/>
 
-<a  href="https://github.com/AlexeyAulov/Resume/blob/main/Alexey%20Aulov%20%20Updated%20Resume%20.pdf" target="_blank" rel="noreferrer"><GoFile ClassName="mr-4"  fgColor="#fff" style ={{height:45,width:45}}/></a>
+<a  href="https://github.com/AlexeyAulov/Resume/blob/main/Alexey%20Aulov%20Resume.pdf" target="_blank" rel="noreferrer"><GoFile ClassName="mr-4"  fgColor="#fff" style ={{height:45,width:45}}/></a>
 
 </div>
 </div>   
