@@ -28,7 +28,7 @@ export default function Home() {
             <img src={image} class="h-96  w-full object-cover md:w-80"  alt="Portfolio Picture" />
           </div>
           <div class="p-4">
-            <p class="mt-2 md:w-80 text-lg text-gray-500">Hi my name is Alexey, I am inspiring to be an software engineer.
+            <p class="mt-2 md:w-80 text-lg text-gray-500">Hi my name is Alexey, I am a software engineer.
             I am currently a full time Information Systems and Informatics student at College of Staten Island.
             I am passionate about creating applications and learning how they work.
             I look up to new challenges, and always work towards exceeding expectations in a collaborative and efficient way.</p>
@@ -53,7 +53,7 @@ export default function Home() {
         <div><DiSass class="w-full sm:w-1/2 md:w-1/3 lg:w-1/4 xl:w-1/6 mb-4 mr-4 " target="_blank" fgColor="#fff" style ={{height:55,width:55}}/></div>
      </div>
      <div class="uppercase underline pt-6 flex justify-center tracking-wide text-2xl text-black font-semibold" >
-       <a href="https://github.com/AlexeyAulov/Resume/blob/main/Alexey%20Aulov%20%20Updated%20Resume%20.pdf">Contact</a></div>
+       <a href="https://github.com/AlexeyAulov/Resume/blob/main/Alexey%20Aulov%20Resume.pdf">Contact</a></div>
 
 </main>
 
