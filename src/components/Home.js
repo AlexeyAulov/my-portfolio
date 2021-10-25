@@ -163,7 +163,7 @@ export default function Home() {
 				</div>
 			</div>
 			<div class="uppercase underline pt-6 flex justify-center tracking-wide text-2xl text-black font-semibold">
-				<a href="https://github.com/AlexeyAulov/Resume/blob/main/Alexey%20October%20Resume.pdf">
+				<a href="https://github.com/AlexeyAulov/Resume/blob/main/Alex%20October%20Resume%20.pdf">
 					Contact
 				</a>
 			</div>
