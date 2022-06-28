@@ -43,7 +43,7 @@ export default function NavBar() {
 					/>
 
 					<a
-						href="https://github.com/AlexeyAulov/Resume/blob/main/Alex%20October%20Resume%20.pdf"
+						href="https://github.com/AlexeyAulov/Resume/blob/main/Alexey%20Aulov%20SWE%20.pdf"
 						target="_blank"
 						rel="noreferrer"
 					>
